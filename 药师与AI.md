@@ -1,10 +1,4 @@
-> 请把这个网页保存为markdown文件：https://www.idstewardship.com/pharmacists-can-use-artificial-intelligence-advance-practice-insights-chatgpt/#:~:text=Personalized%20Medication%20Recommendations%3A%20AI%20algorithms,treatment%20outcomes%20and%20patient%20satisfaction.
 
-Used **WebPilot**
-
-这是您请求的网页的内容，我已将其转换为Markdown格式：
-
----
 
 [如何利用人工智能提升药师的实践：ChatGPT的见解](https://www.idstewardship.com/pharmacists-can-use-artificial-intelligence-advance-practice-insights-chatgpt/)
 ==========================================================================================================================================
